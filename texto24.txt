@@ -1,0 +1,3 @@
+Elabora un diagrama de flujo sinóptico para el montaje de una lámpara de escritorio. 
+Debe incluir operaciones de transporte, montaje de diferentes elementos, 
+inspección y finalmente almacenamiento.
